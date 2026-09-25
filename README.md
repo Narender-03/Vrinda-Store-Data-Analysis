@@ -89,3 +89,8 @@ MBA Student | Finance & Business Analytics
 Academic / Portfolio Project  
 **Domain:** Retail Sales Analytics  
 **Tool:** Microsoft Excel
+
+## 📊 Dashboard Preview
+
+![Vrinda Store Dashboard](vrinda-store.png)
+
