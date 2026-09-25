@@ -92,5 +92,5 @@ Academic / Portfolio Project
 
 ## 📊 Dashboard Preview
 
-![Vrinda Store Dashboard]([vrinda-store.png](https://github.com/Narender-03/Vrinda-Store-Data-Analysis/blob/main/Vrinda-Store.png))
+![Vrinda Store Dashboard](vrinda-store-dashboard.png)
 
