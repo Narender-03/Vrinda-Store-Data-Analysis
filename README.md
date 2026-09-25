@@ -92,5 +92,5 @@ Academic / Portfolio Project
 
 ## 📊 Dashboard Preview
 
-![Vrinda Store Dashboard](vrinda-store-dashboard.png)
+![Vrinda Store Dashboard](Vrinda-Store.png)
 
